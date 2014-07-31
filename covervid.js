@@ -1,3 +1,4 @@
+//covervid VanillaJS by JonathanWolfe
 var coverVid = function (elem, width, height) {
 
 	// call sizeVideo on load
