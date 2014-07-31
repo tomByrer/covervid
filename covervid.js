@@ -69,9 +69,7 @@ var coverVid = function (elem, width, height) {
 		elem.style.top = '50%';
 		elem.style.left = '50%';
 		elem.style['-webkit-transform'] = 'translate(-50%, -50%)';
-		elem.style['-moz-transform'] = 'translate(-50%, -50%)';
 		elem.style['-ms-transform'] = 'translate(-50%, -50%)';
-		elem.style['-o-transform'] = 'translate(-50%, -50%)';
 		elem.style.transform = 'translate(-50%, -50%)';
 
 		// Set overflow hidden on parent element
